@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @H4-sudo
 - 👀 I’m interested in Programming, Automation and Gaming
-- 🌱 I’m currently learning C, C++, Python
+- 🌱 I’m currently learning Java, C, C++, Python
 - 💞️ I’m looking to collaborate on [404]
 - 📫 How to reach me: e-mail me at waft_ham.0r@icloud.com
 
