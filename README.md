@@ -1,6 +1,6 @@
 # Hi there, I'm Henrico JC Swanepoel (H4-sudo) 👋
 
-### 🌐 "Building the future of social clubs..."
+### 🌐 "Building a Provenance Engine of note..."
 
 I am a Full Stack Developer based in Pretoria, South Africa, passionate about building clean, scalable, and impactful web applications. I enjoy solving complex problems, working with modern web technologies, and constantly expanding my technical toolkit.
 
@@ -17,21 +17,6 @@ I am a Full Stack Developer based in Pretoria, South Africa, passionate about bu
 
 *💡 Fun Fact: Linux is my daily driver, so I'm incredibly comfortable working in the terminal and managing server configurations.*
 
-<!---
-
-### 🚀 Highlighted Projects
-
-> 💡 *Note: Below are some of the projects I’ve built or contributed to. Check out my Repositories tab for more!*
-
-#### 📂 [Project Name 1] — *Brief description (e.g., A full-stack platform for managing community events.)*
-* **Tech Stack:** React, C#, PostgreSQL, Azure
-* [Live Demo](https://your-demo-link.com) | [GitHub Repo](https://github.com/H4-sudo/your-repo-name)
-
-#### 📂 [Project Name 2] — *Brief description (e.g., A real-time chat application for private social clubs.)*
-* **Tech Stack:** TypeScript, React, Tailwind CSS, Supabase
-* [Live Demo](https://your-demo-link.com) | [GitHub Repo](https://github.com/H4-sudo/your-repo-name)
-
---->
 
 ### 📫 Connect with Me
 
